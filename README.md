@@ -30,18 +30,18 @@ https://youtu.be/fqsuy5rwZhk
 - Analysis 04. "Analysis of homework for lectures 7 and 8":
 https://youtu.be/5lfkBD4dnGM
 
-### Homeworks
+### Homeworks:
 
 ## Algorithms 2.0 
 ### Homework analysis:
 - Analysis 01. "Analysis of homework for lectures 1 and 2"
--- division A: https://youtu.be/SP_zryTfMIc
--- division B: https://youtu.be/SP_zryTfMIc
+- - division A: https://youtu.be/SP_zryTfMIc
+- - division B: https://youtu.be/SP_zryTfMIc
 - Analysis 02. "Analysis of homework for lectures 3 and 4" 
--- division A: https://youtu.be/mjdu8abcNfc
--- division B: https://youtu.be/adZYAsm6kow
+- - division A: https://youtu.be/mjdu8abcNfc
+- - division B: https://youtu.be/adZYAsm6kow
 - Analysis 03. "Analysis of homework for lectures 5 and 6"
--- division A: https://youtu.be/zU12H9x9MNg
--- division B: -
+- - division A: https://youtu.be/zU12H9x9MNg
+- - division B: -
 
-### Homeworks
+### Homeworks:
